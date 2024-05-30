@@ -54,7 +54,7 @@ smartsheet_response = requests.post(
             {
             'columnId': 4769905686826884,
             'displayValue': 'repo url',
-            'value': repo_url[40:]
+            'value': repo_url[61:]
             },
             {
             'columnId': 7021705500512132,
