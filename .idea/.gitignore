@@ -2,6 +2,9 @@
 /shelf/
 /workspace.xml
 .idea
+.next
+next-env.d.ts
+dist
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
